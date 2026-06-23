@@ -74,4 +74,4 @@ Developed data validation and benchmarking workflows to evaluate multiple AI mod
 
 ---
 
-*"Turning data into decisions through analytics, engineering, and innovation."*
+*"Storytelling through Data."*
