@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey there, I'm Ritika 👋
 
 **Data Analyst | Data Engineer | M.S. Data Analytics @ Northeastern University**
