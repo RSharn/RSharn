@@ -66,9 +66,9 @@ Developed data validation and benchmarking workflows to evaluate multiple AI mod
 
 ## 📫 Connect With Me
 
-📧 [ritsharma5566@gmail.com](mailto:ritsharma5566@gmail.com)
+📧 Email :[ritsharma5566@gmail.com](mailto:ritsharma5566@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/ritika-sharma
+💼 LinkedIn: www.linkedin.com/in/ritika-sharma
 
 🔗 GitHub: github.com/RSharn
 
